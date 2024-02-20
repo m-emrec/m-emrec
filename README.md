@@ -1,3 +1,6 @@
+
+![1000038226](https://github.com/m-emrec/m-emrec/assets/65484287/04cd51cc-35d6-41d9-804f-80744c24402e)
+
 ### Hi there 👋
 I am a junior Flutter developer with over two years of experience. I have a strong algorithmic intelligence, I pick things up quickly, and I'm excellent at solving problems. I prioritize producing clean code and adhering to SOLID principles. I am experienced in state management using Bloc and Provider and am eager to take on new challenges and contribute effectively to any project.
 
