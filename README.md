@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a junior Flutter developer with over two years of experience. I have a strong algorithmic intelligence, I pick things up quickly, and I'm excellent at solving problems. I prioritize producing clean code and adhering to SOLID principles. I am experienced in state management using Bloc and Provider and am eager to take on new challenges and contribute effectively to any project.
+
 
 <!--
 **m-emrec/m-emrec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
